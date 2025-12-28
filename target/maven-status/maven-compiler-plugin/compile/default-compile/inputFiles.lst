@@ -4,3 +4,5 @@
 /home/kareem/learning/event-listener-notifier/src/main/java/com/learning/sse/client/ClientController.java
 /home/kareem/learning/event-listener-notifier/src/main/java/com/learning/sse/client/ClientRepository.java
 /home/kareem/learning/event-listener-notifier/src/main/java/com/learning/sse/client/ClientService.java
+/home/kareem/learning/event-listener-notifier/src/main/java/com/learning/sse/sse/ClientBalanceSseEmitter.java
+/home/kareem/learning/event-listener-notifier/src/main/java/com/learning/sse/sse/ClientSseController.java
